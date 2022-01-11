@@ -1,1 +1,4 @@
-# FE-KTXSHOP-MANAGE
+# FE-KTXSHOP-ADMIN
+
+#username: admin
+#password: admin12
